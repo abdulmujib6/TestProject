@@ -8,7 +8,8 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("Hello , Welcome to spring boot Application");
+		System.out.println("Hello , Welcome to spring boot Application 1");
+		System.out.println("Hello , Welcome to spring boot Application 1");
 	}
 
 }
